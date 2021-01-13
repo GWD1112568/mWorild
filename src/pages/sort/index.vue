@@ -67,6 +67,11 @@
                       name: '常用配件111',
                       url: '/',
                       img: '/static/images/head.jpg'
+                    },
+                    {
+                      name: '常用配件111',
+                      url: '/',
+                      img: '/static/images/head.jpg'
                     }
                   ]
                 }
