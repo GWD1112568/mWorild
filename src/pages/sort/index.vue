@@ -43,7 +43,7 @@
 
   export default {
     data () {
-      return {
+      let tabData = {
         menu: [
           {
             name: '热门推荐',
@@ -201,6 +201,7 @@
           }
         ]
       }
+      return tabData
     },
     computed: {
       activeChild: function () {
